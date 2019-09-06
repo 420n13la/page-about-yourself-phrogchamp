@@ -3,18 +3,18 @@
 @import url('https://fonts.googleapis.com/css?family=Manjari&display=swap');
 
 body {
-  background-color: lightblue;
+  background-color: lightgreen;
 }
 
 h1 {
-  color: red;
+  color: darkred;
   text-align: center;
-  font-family: 'Manjari', sans-serif;
+  font-family: 'Comic Sans MS', sans-serif;
 }
 
 h2 {
-  color: blue;
-  text-align: left;
+  color: darkblue;
+  text-align: center;
 }
 
 p {
